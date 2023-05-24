@@ -1,0 +1,5 @@
+Method move -- The dog Rex moves at a speed 36.
+Method move -- The dog Sheila moves at a speed 28.
+Method move -- The dog Rex-Sheila moves at a speed 24.
+Method move -- The cat Chili moves at a speed 25.
+Method move -- The horse Meteor moves at a speed 90.
